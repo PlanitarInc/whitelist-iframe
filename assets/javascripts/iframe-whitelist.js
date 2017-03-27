@@ -7,4 +7,5 @@
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/www\.youtube\.com\/embed\/.+/i);
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/discordapp\.com\/.+/i);
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/www\.youriguide.com\.com\/.+/i);
+  Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/.youriguide.com\.com\/.+/i);
 })();
